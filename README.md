@@ -1,5 +1,11 @@
 # Final-project-jl
 
+To make this work, you need to install Pygame. Here is how to do it!
+
+open up your comand line,
+
+type: pip install pygame |and press enter
+
 All images form Google images
 
 Pygame needs to be downloaded 
