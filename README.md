@@ -1,9 +1,9 @@
 # Final-project-jl
 All images form Google images
 Files needed:
-background.jpg
-paddle1.png
-paddle2.png
+background.jpg;
+paddle1.png;
+paddle2.png;
 
 Special thanks to: Professor , the Internet
 
