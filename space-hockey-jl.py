@@ -42,23 +42,6 @@ background = pygame.image.load('./background.jpg')
 bluepadimg = pygame.image.load('./paddle1.png')
 redpadimg = pygame.image.load('./paddle2.png')
 
-#Instructions Screen Attempt
-#def startscreen():
-   # intro = True
-    #while intro:
-     #   for event in pygame.event.get():
-      #      if event.type == pygame.QUIT:
-       #         pygame.quit()
-        #        quit()
-
-    #pygame.display.fill(white)
-    #largeText = pygame.font.Font('Arial',155)
-    #textSurf, textRect = text_objects("test", largeText)
-    #textRect.centre = ((display_width/2), (display_height/2))
-    #gamedisplay.blit(textSurf, textRect)
-    #pygame.display.update()
-    #qclock.tick(5)
-
 
 #Set Scoreboard and Respawn Direction
 score1,score2 = 0,0
