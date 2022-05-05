@@ -16,7 +16,12 @@ puck.png;
 
 Special thanks to: Professor Pogue, the Internet, and those who helped along the way!
 
-Most content is original
+I utilized StackOverflow for questions and ideas for basic conceps.
+
+I found some basic information on github but it did not work so I had to debug and make updates to get all the keys to function properly
+
 All rights reserved
 Feel free to improve on the code =)
-contact me at halacca42@aol.com
+contact me at jeffreyslacca@lewisu.edu
+
+This started as a pong game but evolved to airhockey and was enhanced to have a space theme.
